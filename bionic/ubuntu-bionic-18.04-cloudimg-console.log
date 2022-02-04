@@ -1,0 +1,312 @@
+done.
+[    4.742154] ip_tables: (C) 2000-2006 Netfilter Core Team
+[    4.751259] systemd[1]: systemd 237 running in system mode. (+PAM +AUDIT +SELINUX +IMA +APPARMOR +SMACK +SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ +LZ4 +SECCOMP +BLKID +ELFUTILS +KMOD -IDN2 +IDN -PCRE2 default-hierarchy=hybrid)
+[    4.754496] systemd[1]: Detected virtualization oracle.
+[    4.755648] systemd[1]: Detected architecture x86-64.
+
+Welcome to [1mUbuntu 18.04.6 LTS[0m!
+
+[    4.759820] systemd[1]: Set hostname to <ubuntu>.
+[    4.762847] systemd[1]: Initializing machine ID from random generator.
+[    4.764688] systemd[1]: Installed transient /etc/machine-id file.
+[    4.956323] systemd[1]: Reached target System Time Synchronized.
+[[0;32m  OK  [0m] Reached target System Time Synchronized.
+[    4.968593] systemd[1]: Reached target Swap.
+[[0;32m  OK  [0m] Reached target Swap.
+[    4.970038] systemd[1]: Created slice User and Session Slice.
+[[0;32m  OK  [0m] Created slice User and Session Slice.
+[    4.971199] systemd[1]: Set up automount Arbitrary Executable File Formats File System Automount Point.
+[[0;32m  OK  [0m] Set up automount Arbitrary Executab…rmats File System Automount Point.
+[[0;32m  OK  [0m] Created slice System Slice.
+[[0;32m  OK  [0m] Listening on udev Kernel Socket.
+[[0;32m  OK  [0m] Created slice system-serial\x2dgetty.slice.
+[[0;32m  OK  [0m] Listening on Journal Socket (/dev/log).
+[[0;32m  OK  [0m] Listening on Device-mapper event daemon FIFOs.
+[[0;32m  OK  [0m] Listening on udev Control Socket.
+[[0;32m  OK  [0m] Listening on Journal Socket.
+         Starting Uncomplicated firewall...
+         Starting Set the console keyboard layout...
+         Starting Load Kernel Modules...
+         Starting Create list of required st…ce nodes for the current kernel...
+[    5.108203] Loading iSCSI transport class v2.0-870.
+         Starting udev Coldplug all Devices...
+[    5.113489] iscsi: registered transport (tcp)
+         Mounting Kernel Debug File System...
+         Mounting Huge Pages File System...
+[[0;32m  OK  [0m] Listening on LVM2 metadata daemon socket.
+[    5.127782] iscsi: registered transport (iser)
+         Starting Monitoring of LVM2 mirrors…ng dmeventd or progress polling...
+[[0;32m  OK  [0m] Listening on Syslog Socket.
+[[0;32m  OK  [0m] Listening on /dev/initctl Compatibility Named Pipe.
+[[0;32m  OK  [0m] Reached target Slices.
+[[0;32m  OK  [0m] Listening on Journal Audit Socket.
+         Starting Journal Service...
+[[0;32m  OK  [0m] Listening on fsck to fsckd communication Socket.
+[[0;32m  OK  [0m] Listening on Network Service Netlink Socket.
+[[0;32m  OK  [0m] Listening on LVM2 poll daemon socket.
+         Starting File System Check on Root Device...
+[[0;32m  OK  [0m] Reached target User and Group Name Lookups.
+[[0;32m  OK  [0m] Started Forward Password Requests to Wall Directory Watch.
+         Mounting POSIX Message Queue File System...
+[[0;32m  OK  [0m] Started Uncomplicated firewall.
+[[0;32m  OK  [0m] Started Load Kernel Modules.
+[[0;32m  OK  [0m] Started Journal Service.
+[[0;32m  OK  [0m] Started Create list of required sta…vice nodes for the current kernel.
+[[0;32m  OK  [0m] Mounted Kernel Debug File System.
+[[0;32m  OK  [0m] Mounted Huge Pages File System.
+[[0;32m  OK  [0m] Started File System Check on Root Device.
+[[0;32m  OK  [0m] Mounted POSIX Message Queue File System.
+[[0;32m  OK  [0m] Started LVM2 metadata daemon.
+[[0;32m  OK  [0m] Started File System Check Daemon to report status.
+         Starting Remount Root and Kernel File Systems...
+         Starting Create Static Device Nodes in /dev...
+         Starting Apply Kernel Variables...
+         Mounting FUSE Control File System...
+         Mounting Kernel Configuration File System...
+[[0;32m  OK  [0m] Started udev Coldplug all Devices.
+[[0;32m  OK  [0m] Mounted FUSE Control File System.
+[[0;32m  OK  [0m] Mounted Kernel Configuration File System.
+[[0;32m  OK  [0m] Started Create Static Device Nodes in /dev.
+[[0;32m  OK  [0m] Started Remount Root and Kernel File Systems.
+         Starting udev Kernel Device Manager...
+         Starting Load/Save Random Seed...
+         Starting Flush Journal to Persistent Storage...
+[[0;32m  OK  [0m] Started Apply Kernel Variables.
+[[0;32m  OK  [0m] Started Load/Save Random Seed.
+[[0;32m  OK  [0m] Started udev Kernel Device Manager.
+[[0;32m  OK  [0m] Started Monitoring of LVM2 mirrors,…sing dmeventd or progress polling.
+[[0;32m  OK  [0m] Started Flush Journal to Persistent Storage.
+[[0;32m  OK  [0m] Found device /dev/ttyS0.
+[[0;32m  OK  [0m] Listening on Load/Save RF Kill Switch Status /dev/rfkill Watch.
+[[0;32m  OK  [0m] Started Set the console keyboard layout.
+[[0;32m  OK  [0m] Reached target Local File Systems (Pre).
+[[0;32m  OK  [0m] Reached target Local File Systems.
+         Starting AppArmor initialization...
+         Starting Commit a transient machine-id on disk...
+         Starting ebtables ruleset management...
+         Starting Tell Plymouth To Write Out Runtime Data...
+         Starting Create Volatile Files and Directories...
+         Starting Set console font and keymap...
+[[0;32m  OK  [0m] Started Dispatch Password Requests to Console Directory Watch.
+[[0;32m  OK  [0m] Reached target Local Encrypted Volumes.
+[[0;32m  OK  [0m] Started Tell Plymouth To Write Out Runtime Data.
+[[0;32m  OK  [0m] Started Commit a transient machine-id on disk.
+[[0;32m  OK  [0m] Started Set console font and keymap.
+[[0;32m  OK  [0m] Started Create Volatile Files and Directories.
+         Starting Update UTMP about System Boot/Shutdown...
+[[0;32m  OK  [0m] Started Update UTMP about System Boot/Shutdown.
+[[0;32m  OK  [0m] Started ebtables ruleset management.
+[[0;32m  OK  [0m] Started AppArmor initialization.
+         Starting Load AppArmor profiles managed internally by snapd...
+         Starting Initial cloud-init job (pre-networking)...
+[[0;32m  OK  [0m] Started Load AppArmor profiles managed internally by snapd.
+[    8.730565] cloud-init[683]: Cloud-init v. 21.4-0ubuntu1~18.04.1 running 'init-local' at Fri, 04 Feb 2022 14:24:37 +0000. Up 8.44 seconds.
+[[0;32m  OK  [0m] Started Initial cloud-init job (pre-networking).
+[[0;32m  OK  [0m] Reached target Network (Pre).
+         Starting Network Service...
+[[0;32m  OK  [0m] Started Network Service.
+         Starting Network Name Resolution...
+         Starting Wait for Network to be Configured...
+[[0;32m  OK  [0m] Started Network Name Resolution.
+[[0;32m  OK  [0m] Reached target Host and Network Name Lookups.
+[[0;32m  OK  [0m] Reached target Network.
+[[0;32m  OK  [0m] Started Wait for Network to be Configured.
+         Starting Initial cloud-init job (metadata service crawler)...
+[   10.710797] cloud-init[769]: Cloud-init v. 21.4-0ubuntu1~18.04.1 running 'init' at Fri, 04 Feb 2022 14:24:39 +0000. Up 10.63 seconds.
+[   10.711687] cloud-init[769]: ci-info: ++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++
+[   10.712263] cloud-init[769]: ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+[   10.713248] cloud-init[769]: ci-info: | Device |  Up  |          Address           |      Mask     | Scope  |     Hw-Address    |
+[   10.714367] cloud-init[769]: ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+[   10.724302] cloud-init[769]: ci-info: | enp0s3 | True |         10.0.2.15          | 255.255.255.0 | global | 02:e8:64:37:14:18 |
+[   10.736134] cloud-init[769]: ci-info: | enp0s3 | True | fe80::e8:64ff:fe37:1418/64 |       .       |  link  | 02:e8:64:37:14:18 |
+[   10.736701] cloud-init[769]: ci-info: |   lo   | True |         127.0.0.1          |   255.0.0.0   |  host  |         .         |
+[   10.737732] cloud-init[769]: ci-info: |   lo   | True |          ::1/128           |       .       |  host  |         .         |
+[   10.738650] cloud-init[769]: ci-info: +--------+------+----------------------------+---------------+--------+-------------------+
+[   10.739525] cloud-init[769]: ci-info: ++++++++++++++++++++++++++++Route IPv4 info+++++++++++++++++++++++++++++
+[   10.740566] cloud-init[769]: ci-info: +-------+-------------+----------+-----------------+-----------+-------+
+[   10.743155] cloud-init[769]: ci-info: | Route | Destination | Gateway  |     Genmask     | Interface | Flags |
+[   10.744092] cloud-init[769]: ci-info: +-------+-------------+----------+-----------------+-----------+-------+
+[   10.745362] cloud-init[769]: ci-info: |   0   |   0.0.0.0   | 10.0.2.2 |     0.0.0.0     |   enp0s3  |   UG  |
+[   10.746281] cloud-init[769]: ci-info: |   1   |   10.0.2.0  | 0.0.0.0  |  255.255.255.0  |   enp0s3  |   U   |
+[   10.748259] cloud-init[769]: ci-info: |   2   |   10.0.2.2  | 0.0.0.0  | 255.255.255.255 |   enp0s3  |   UH  |
+[   10.749083] cloud-init[769]: ci-info: +-------+-------------+----------+-----------------+-----------+-------+
+[   10.750264] cloud-init[769]: ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+[   10.751579] cloud-init[769]: ci-info: +-------+-------------+---------+-----------+-------+
+[   10.753368] cloud-init[769]: ci-info: | Route | Destination | Gateway | Interface | Flags |
+[   10.754185] cloud-init[769]: ci-info: +-------+-------------+---------+-----------+-------+
+[   10.755013] cloud-init[769]: ci-info: |   1   |  fe80::/64  |    ::   |   enp0s3  |   U   |
+[   10.755663] cloud-init[769]: ci-info: |   3   |    local    |    ::   |   enp0s3  |   U   |
+[   10.768167] cloud-init[769]: ci-info: |   4   |   ff00::/8  |    ::   |   enp0s3  |   U   |
+[   10.780224] cloud-init[769]: ci-info: +-------+-------------+---------+-----------+-------+
+[   11.198170] cloud-init[769]: Generating public/private rsa key pair.
+[   11.208513] cloud-init[769]: Your identification has been saved in /etc/ssh/ssh_host_rsa_key.
+[   11.220221] cloud-init[769]: Your public key has been saved in /etc/ssh/ssh_host_rsa_key.pub.
+[[0;32m  OK  [0m] Started Initial cloud-init job (metadata service crawler).
+[[0;32m  OK  [0m] Reached target Network is Online.
+[   11.235936] cloud-init[769]: The key fingerprint is:
+         Starting Availability of block devices...
+[[0;32m  OK  [0m] Reached target Remote File Systems (Pre).
+[[0;32m  OK  [0m] Reached target Remote File Systems.
+[[0;32m  OK  [0m] Reached target System Initialization.
+[[0;32m  OK  [0m] Listening on cloud-init hotplug hook socket.
+[   11.251918] cloud-init[769]: SHA256:Tz7Sm+eS+b9fvcbPL5ep6Ab/+2pF+8ShZbpGVldbNu8 root@ubuntu-bionic
+         Starting LXD - unix socket.
+[[0;32m  OK  [0m] Listening on ACPID Listen Socket.[   11.256161] cloud-init[769]: The key's randomart image is:
+[   11.256752] cloud-init[769]: +---[RSA 2048]----+
+[   11.257221] cloud-init[769]: |                 |
+[   11.257711] cloud-init[769]: |               .+|
+[   11.258226] cloud-init[769]: |               .*|
+[   11.258403] cloud-init[769]: |               Bo|
+[   11.258545] cloud-init[769]: |        S .   Bo+|
+[   11.258845] cloud-init[769]: |         *   = oE|
+[   11.259216] cloud-init[769]: |        . Boo +.*|
+[   11.259390] cloud-init[769]: |         .+*o+.*=|
+[   11.259533] cloud-init[769]: |          =B**OBB|
+[   11.259942] 
+[[0;32m  OK  [0m] Started Discard unused blocks once a week.
+[[0;32m  OK  [0m] Started ACPI Events Check.
+[[0;32m  OK  [0m] Listening on D-Bus System Message Bus Socket.
+[[0;32m  OK  [0m] Started Message of the Day.
+[[0;32m  OK  [0m] Started Ubuntu Advantage Timer for running repeated jobs.
+         Starting Socket activation for snappy daemon.
+[[0;32m  OK  [0m] Listening on Open-iSCSI iscsid Socket.
+[[0;32m  OK  [0m] Started Trigger to poll for Ubuntu …(Only enabled on GCP LTS non-pro).
+[[0;32m  OK  [0m] Reached target Paths.
+[[0;32m  OK  [0m] Listening on UUID daemon activation socket.
+[[0;32m  OK  [0m] Started Daily apt download activities.
+[[0;32m  OK  [0m] Started Daily apt upgrade and clean activities.
+[[0;32m  OK  [0m] Started Daily Cleanup of Temporary Directories.
+[[0;32m  OK  [0m] Reached target Timers.
+[[0;32m  OK  [0m] Reached target Cloud-config availability.
+cloud-init[769]: +----[SHA256]-----+
+[[0;32m  OK  [0m] Started Availability of block devices.
+[[0;32m  OK  [0m] Listening on LXD - unix socket.
+[[0;32m  OK  [0m] Listening on Socket activation for snappy daemon.
+[[0;32m  OK  [0m] Reached target Sockets.
+[[0;32m  OK  [0m] Reached target Basic System.
+         Starting Accounts Service...
+         Starting LSB: Record successful boot for GRUB...
+[   11.284578] cloud-init[769]: Generating public/private dsa key pair.
+[   11.321331] cloud-init[769]: Your identification has been saved in /etc/ssh/ssh_host_dsa_key.
+[   11.323241] cloud-init[769]: Your public key has been saved in /etc/ssh/ssh_host_dsa_key.pub.
+[   11.323875] cloud-init[769]: The key fingerprint is:
+[   11.324155] cloud-init[769]: SHA256:EchHR/iF7uuiCTs0H/sDl0lTRCtBSfoitAag5K3bWG8 root@ubuntu-bionic
+[   11.324880] cloud-init[769]: The key's randomart image is:
+[   11.325494] cloud-init[769]: +---[DSA 1024]----+
+[   11.327854] cloud-init[[0;32m  OK  [0m] Started Regular background program processing daemon.
+         Starting Permit User Sessions...
+[[0;32m  OK  [0m] Started D-Bus System Message Bus.
+[769]: |..   . =**=.     |
+[   11.332718] cloud-init[769]: |+..   o.++o..    |
+[   11.334559] cloud-init[769]: |..... ..o+..     |
+[   11.335230] cloud-init[769]: |  .o . .ooo      |
+[   11.335605] cloud-init[769]: | . .+ ..S=       |
+[   11.335974] cloud-init[769]: |  =.+.o.+ .      |
+[   11.338631] cloud-init[769]: | o o.E =   .     |
+[   11.339356] cloud-init[769]: |    ooo.o .      |
+[   11.339932] cloud-init[769]: |    ..oo.+.      |
+[   11.341561] cloud-init[769]: +----[SHA256]-----+
+[   11.342290] cloud-init[769]: Generating public/private ecdsa key pair.
+[   11.343163] cloud-init[769]: Your identification has been saved in /etc/ssh/ssh_host_ecdsa_key.
+[   11.348670] cloud-init[769]: Your public key has been saved in /etc/ssh/ssh_host_ecdsa_key.pub.
+[   11.350787] cloud-init[769]: The key fingerprint is:
+[   11.351933] cloud-init[769]: SHA256:F+LkBeQ+5dDC3HcFU55+p7rySl9xtGPSPujmB4aZpgo root@ubuntu-bionic
+[   11.353134] cloud-init[769]: The key's randomart image is:
+[   11.353400] cloud-init[769]: +---[ECDSA 256]---+
+[   11.353677] cloud-init[769]: |       .o     ooo|
+[   11.354991] cloud-init[769]: |       + +     +.|
+[   11.358856] cloud-init[769]: |        O * . ..o|
+[   11.360358] cloud-init[769]: |       = B o .o..|
+[   11.362171] cloud-init[769]: |        S o +..*+|
+[   11.363234] cloud-init[769]: |         o = o=++|
+[   11.364197] cloud-init[769]: |     E    + ..+o |
+         Starting Pollinate to seed the pseudo random number generator...
+         Starting System Logging Service...
+[   11.380544] cloud-init[769]: |      .  o...+ ..|
+[   11.404228] cloud-init[769]: |       .. .+B+.  |
+[   11.404549] cloud-init[769]: +----[SHA256]-----+
+         Starting Snap Daemon...
+[[0;32m  OK  [0m] Started Deferred execution scheduler.
+         Starting LXD - container startup/shutdown...
+         Starting Virtualbox guest utils...
+[[0;32m  OK  [0m] Started FUSE filesystem for LXC.
+[   11.419369] cloud-init[769]: Generating public/private ed25519 key pair.
+[   11.448460] cloud-init[769]: Your identification has been saved in /etc/ssh/ssh_host_ed25519_key.
+[   11.449468] cloud-init[769]: Your public key has been saved in /etc/ssh/ssh_host_ed25519_key.pub.
+[   11.450466] cloud-init[769]: The key fingerprint is:
+[   11.474169] cloud-init[769]: SHA256:VIgF3/0kvU4QxaB5XniDGykKRi4MIxm/M0H0lNEDJEI root@ubuntu-bionic
+[   11.474942] cloud-init[769]: The key's randomart image is:
+[   11.475666] cloud-init[769]: +--[ED25519 256]--+
+[   11.476662] cloud-init[769]: |=E*.==o+... o+.  |
+[   11.477543] cloud-init[769]: |.= B.o+..o + *.  |
+[   11.478321] cloud-init[769]: |  o + +.o = X *  |
+[   11.504611] cloud-init[769]: |   o o o . + X o |
+[   11.505228] cloud-init[769]: |  +     S   o +  |
+[   11.505884] cloud-init[769]: |   o         o   |
+[   11.506550] cloud-init[769]: |              .  |
+[   11.507217] cloud-init[769]: |                 |
+[   11.507915] cloud-init[769]: |                 |
+[   11.537957] cloud-init[769]: +----[SHA256]-----+
+[[0;32m  OK  [0m] Started irqbalance daemon.
+         Starting Login Service...
+         Starting Dispatcher daemon for systemd-networkd...
+         Starting LSB: automatic crash report generation...
+[[0;32m  OK  [0m] Started System Logging Service.
+[[0;32m  OK  [0m] Started Permit User Sessions.
+[[0;32m  OK  [0m] Started Login Service.
+[[0;32m  OK  [0m] Started Unattended Upgrades Shutdown.
+         Starting Authorization Manager...
+         Starting Hold until boot process finishes up...
+         Starting Terminate Plymouth Boot Screen...
+[[0;32m  OK  [0m] Started Hold until boot process finishes up.
+[[0;32m  OK  [0m] Started Serial Getty on ttyS0.
+         Starting Set console scheme...
+[[0;32m  OK  [0m] Started Terminate Plymouth Boot Screen.
+[[0;32m  OK  [0m] Started Authorization Manager.
+[[0;32m  OK  [0m] Started Accounts Service.
+[[0;32m  OK  [0m] Started Set console scheme.
+[[0;32m  OK  [0m] Created slice system-getty.slice.
+[[0;32m  OK  [0m] Started Getty on tty1.
+[[0;32m  OK  [0m] Reached target Login Prompts.
+[[0;32m  OK  [0m] Started LSB: automatic crash report generation.
+[[0;32m  OK  [0m] Started LSB: Record successful boot for GRUB.
+[[0;32m  OK  [0m] Started Virtualbox guest utils.
+[[0;32m  OK  [0m] Started LXD - container startup/shutdown.
+[[0;32m  OK  [0m] Started Snap Daemon.
+[[0;32m  OK  [0m] Started Dispatcher daemon for systemd-networkd.
+         Starting Wait until snapd is fully seeded...
+[[0;32m  OK  [0m] Started Pollinate to seed the pseudo random number generator.
+         Starting OpenBSD Secure Shell server...
+[[0;32m  OK  [0m] Started OpenBSD Secure Shell server.
+[[0;32m  OK  [0m] Created slice User Slice of vagrant.
+         Starting User Manager for UID 1000...
+[[0;32m  OK  [0m] Started Session 1 of user vagrant.
+[[0;32m  OK  [0m] Started User Manager for UID 1000.
+[[0;32m  OK  [0m] Started Wait until snapd is fully seeded.
+         Starting Apply the settings specified in cloud-config...
+[[0;32m  OK  [0m] Reached target Multi-User System.
+[[0;32m  OK  [0m] Reached target Graphical Interface.
+         Starting Update UTMP about System Runlevel Changes...
+[[0;32m  OK  [0m] Started Update UTMP about System Runlevel Changes.
+[   17.228631] cloud-init[1278]: Cloud-init v. 21.4-0ubuntu1~18.04.1 running 'modules:config' at Fri, 04 Feb 2022 14:24:45 +0000. Up 16.13 seconds.
+
+Ubuntu 18.04.6 LTS ubuntu-bionic ttyS0
+
+ubuntu-bionic login: ci-info: no authorized SSH keys fingerprints found for user ubuntu.
+<14>Feb  4 14:24:47 cloud-init: #############################################################
+<14>Feb  4 14:24:47 cloud-init: -----BEGIN SSH HOST KEY FINGERPRINTS-----
+<14>Feb  4 14:24:47 cloud-init: 1024 SHA256:EchHR/iF7uuiCTs0H/sDl0lTRCtBSfoitAag5K3bWG8 root@ubuntu-bionic (DSA)
+<14>Feb  4 14:24:47 cloud-init: 256 SHA256:F+LkBeQ+5dDC3HcFU55+p7rySl9xtGPSPujmB4aZpgo root@ubuntu-bionic (ECDSA)
+<14>Feb  4 14:24:47 cloud-init: 256 SHA256:VIgF3/0kvU4QxaB5XniDGykKRi4MIxm/M0H0lNEDJEI root@ubuntu-bionic (ED25519)
+<14>Feb  4 14:24:47 cloud-init: 2048 SHA256:Tz7Sm+eS+b9fvcbPL5ep6Ab/+2pF+8ShZbpGVldbNu8 root@ubuntu-bionic (RSA)
+<14>Feb  4 14:24:47 cloud-init: -----END SSH HOST KEY FINGERPRINTS-----
+<14>Feb  4 14:24:47 cloud-init: #############################################################
+-----BEGIN SSH HOST KEY KEYS-----
+ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBG0cQS5viUyTJXPjU+Lg84jRo8gq7scp7fR4ZTYXSBINxRt6O45bc2IxCMYr9XvFk7jXUTjySf3Cc/zbMYlGLhY= root@ubuntu-bionic
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM1Put2HreC/Oeaam9J6kPHShc0nweUpgnH6tH1apKJF root@ubuntu-bionic
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/8wE/vBwmz3uQQFVybHeR3haT+NfOmWEhjBE/1LYBSCO6rAHryy3WaY++p4x5osUGBII5WgDdEnRS+ipSWdaM4ylQ4qYWkDpasMxC6nycfffNOhktSCXb4a/CX8mj5uDxszIAuwkFpU6t+zW1gV81wUDep8v13tNCFcyGnPggbHID/hDX6j6IAfea4esFrBkBbIOR7Y/t0zoAWyq0cGLzvJrs8JdOTVHQDpE/3a2ePi22YNoSU9cE+evqIlbErIOuvojrJEbIYa2KCmbczJRItEJjDeIat5eKPC+m9+Z9TwyIJdkIkQxgOWkPQVNeFf4RWrLD+CUoYH2896jXbHtL root@ubuntu-bionic
+-----END SSH HOST KEY KEYS-----
+[   18.516822] cloud-init[1375]: Cloud-init v. 21.4-0ubuntu1~18.04.1 running 'modules:final' at Fri, 04 Feb 2022 14:24:47 +0000. Up 18.27 seconds.
+[   18.517171] cloud-init[1375]: ci-info: no authorized SSH keys fingerprints found for user ubuntu.
+[   18.517330] cloud-init[1375]: Cloud-init v. 21.4-0ubuntu1~18.04.1 finished at Fri, 04 Feb 2022 14:24:47 +0000. Datasource DataSourceNoCloud [seed=/dev/sdb][dsmode=net].  Up 18.50 seconds
+
